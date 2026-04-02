@@ -1,8 +1,37 @@
 {
   "code": "ATL",
   "checkpoints": [],
-  "updatedAtMs": 1775135479561,
+  "updatedAtMs": 1775140741765,
   "source": "https://www.atl.com/travel-information/security-wait-times/",
   "ok": false,
-  "error": "Page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.atl.com/travel-information/security-wait-times/\", waiting until \"networkidle\"\n"
+  "error": "Page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.atl.com/travel-information/security-wait-times/\", waiting until \"networkidle\"\n",
+  "clear": {
+    "open": true,
+    "terminals": [
+      {
+        "name": "Domestic Terminal North",
+        "hours": "4:30am - 8:00pm"
+      },
+      {
+        "name": "Domestic Terminal South",
+        "hours": "4:30am - 9:00pm"
+      },
+      {
+        "name": "International Terminal",
+        "hours": "5:00am - 7:30pm"
+      },
+      {
+        "name": "Domestic Terminal North",
+        "hours": "4:30am - 8:00pm"
+      },
+      {
+        "name": "Domestic Terminal South",
+        "hours": "4:30am - 9:00pm"
+      },
+      {
+        "name": "International Terminal",
+        "hours": "5:00am - 7:30pm"
+      }
+    ]
+  }
 }

@@ -1,7 +1,29 @@
 {
   "code": "LGA",
   "checkpoints": [],
-  "updatedAtMs": 1775135427915,
+  "updatedAtMs": 1775140651654,
   "source": "https://www.laguardiaairport.com/at-the-airport/security",
-  "ok": false
+  "ok": false,
+  "error": "Page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.laguardiaairport.com/at-the-airport/security\", waiting until \"networkidle\"\n",
+  "clear": {
+    "open": true,
+    "terminals": [
+      {
+        "name": "Terminal C",
+        "hours": "Sun - Fri: 4:30am - 9:00pm"
+      },
+      {
+        "name": "Terminal B",
+        "hours": "Sun - Fri: 6:00am - 8:00pm"
+      },
+      {
+        "name": "Terminal C",
+        "hours": "Sun - Fri: 4:30am - 9:00pm"
+      },
+      {
+        "name": "Terminal C, Post Security Checkpoint",
+        "hours": "Sun - Fri: 6:00am - 8:00pm"
+      }
+    ]
+  }
 }
