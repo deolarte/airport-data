@@ -1,10 +1,35 @@
 {
   "code": "PHX",
-  "checkpoints": [],
-  "updatedAtMs": 1775151729344,
-  "source": "https://www.skyharbor.com/Security",
-  "ok": false,
-  "error": "Page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.skyharbor.com/Security\", waiting until \"networkidle\"\n",
+  "checkpoints": [
+    {
+      "terminal": "T3 General",
+      "waitMin": 9,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "T4 Checkpoint A General",
+      "waitMin": 8,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "T4 Checkpoint B General",
+      "waitMin": 7,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "T4 Checkpoint C General",
+      "waitMin": 8,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "T4 Checkpoint D General",
+      "waitMin": 8,
+      "isPrecheck": false
+    }
+  ],
+  "updatedAtMs": 1775155436989,
+  "source": "Airport API (direct)",
+  "ok": true,
   "clear": {
     "open": true,
     "terminals": [

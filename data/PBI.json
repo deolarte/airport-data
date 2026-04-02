@@ -1,8 +1,8 @@
 {
   "code": "PBI",
   "checkpoints": [],
-  "updatedAtMs": 1775151944503,
-  "source": "TSA DHS API + clearme.com",
+  "updatedAtMs": 1775155425667,
+  "source": "clearme.com",
   "ok": false,
   "clear": {
     "open": false,

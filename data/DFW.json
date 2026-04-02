@@ -2,173 +2,128 @@
   "code": "DFW",
   "checkpoints": [
     {
-      "terminal": "General",
-      "waitMin": 2,
+      "terminal": "A21 General",
+      "waitMin": 21,
       "isPrecheck": false
     },
     {
-      "terminal": "Priority",
+      "terminal": "A21 Priority",
+      "waitMin": 7,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "A21 TSA Pre",
+      "waitMin": 9,
+      "isPrecheck": true
+    },
+    {
+      "terminal": "A35 General",
+      "waitMin": 11,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "B30 General",
       "waitMin": 0,
       "isPrecheck": false
     },
     {
-      "terminal": "General",
-      "waitMin": 8,
+      "terminal": "B30 Priority",
+      "waitMin": 2,
       "isPrecheck": false
     },
     {
-      "terminal": "Priority",
+      "terminal": "B30 TSA Pre",
+      "waitMin": 0,
+      "isPrecheck": true
+    },
+    {
+      "terminal": "B9 General",
+      "waitMin": 11,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "B9 Priority",
+      "waitMin": 7,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "B9 TSA Pre",
+      "waitMin": 9,
+      "isPrecheck": true
+    },
+    {
+      "terminal": "C11 General",
+      "waitMin": 2,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "C11 TSA Pre",
+      "waitMin": 0,
+      "isPrecheck": true
+    },
+    {
+      "terminal": "C20 General",
+      "waitMin": 2,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "C20 TSA Pre",
+      "waitMin": 2,
+      "isPrecheck": true
+    },
+    {
+      "terminal": "D18 General",
+      "waitMin": 2,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "D22 General",
+      "waitMin": 2,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "D30 TSA Pre",
+      "waitMin": 2,
+      "isPrecheck": true
+    },
+    {
+      "terminal": "E16 TSA Pre",
+      "waitMin": 5,
+      "isPrecheck": true
+    },
+    {
+      "terminal": "E18 General",
+      "waitMin": 11,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "E33 General",
+      "waitMin": 7,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "E33 Priority",
+      "waitMin": 2,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "E8 General",
+      "waitMin": 2,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "E8 Priority",
       "waitMin": 0,
       "isPrecheck": false
     },
     {
-      "terminal": "TSA Pre",
-      "waitMin": 6,
-      "isPrecheck": false
-    },
-    {
-      "terminal": "General",
+      "terminal": "E8 TSA Pre",
       "waitMin": 2,
-      "isPrecheck": false
-    },
-    {
-      "terminal": "Priority",
-      "waitMin": 0,
-      "isPrecheck": false
-    },
-    {
-      "terminal": "General",
-      "waitMin": 2,
-      "isPrecheck": false
-    },
-    {
-      "terminal": "Priority",
-      "waitMin": 2,
-      "isPrecheck": false
-    },
-    {
-      "terminal": "TSA Pre",
-      "waitMin": 0,
-      "isPrecheck": false
-    },
-    {
-      "terminal": "General",
-      "waitMin": 22,
-      "isPrecheck": false
-    },
-    {
-      "terminal": "Priority",
-      "waitMin": 12,
-      "isPrecheck": false
-    },
-    {
-      "terminal": "TSA Pre",
-      "waitMin": 16,
-      "isPrecheck": false
-    },
-    {
-      "terminal": "General",
-      "waitMin": 0,
-      "isPrecheck": false
-    },
-    {
-      "terminal": "Priority",
-      "waitMin": 0,
-      "isPrecheck": false
-    },
-    {
-      "terminal": "TSA Pre",
-      "waitMin": 2,
-      "isPrecheck": false
-    },
-    {
-      "terminal": "General",
-      "waitMin": 2,
-      "isPrecheck": false
-    },
-    {
-      "terminal": "Priority",
-      "waitMin": 2,
-      "isPrecheck": false
-    },
-    {
-      "terminal": "TSA Pre",
-      "waitMin": 0,
-      "isPrecheck": false
-    },
-    {
-      "terminal": "General",
-      "waitMin": 2,
-      "isPrecheck": false
-    },
-    {
-      "terminal": "TSA Pre",
-      "waitMin": 4,
-      "isPrecheck": false
-    },
-    {
-      "terminal": "General",
-      "waitMin": 2,
-      "isPrecheck": false
-    },
-    {
-      "terminal": "General",
-      "waitMin": 4,
-      "isPrecheck": false
-    },
-    {
-      "terminal": "General",
-      "waitMin": 0,
-      "isPrecheck": false
-    },
-    {
-      "terminal": "TSA Pre",
-      "waitMin": 2,
-      "isPrecheck": false
-    },
-    {
-      "terminal": "TSA Pre",
-      "waitMin": 4,
-      "isPrecheck": false
-    },
-    {
-      "terminal": "General",
-      "waitMin": 20,
-      "isPrecheck": false
-    },
-    {
-      "terminal": "TSA Pre",
-      "waitMin": 0,
-      "isPrecheck": false
-    },
-    {
-      "terminal": "General",
-      "waitMin": 2,
-      "isPrecheck": false
-    },
-    {
-      "terminal": "Priority",
-      "waitMin": 2,
-      "isPrecheck": false
-    },
-    {
-      "terminal": "General",
-      "waitMin": 6,
-      "isPrecheck": false
-    },
-    {
-      "terminal": "Priority",
-      "waitMin": 0,
-      "isPrecheck": false
-    },
-    {
-      "terminal": "TSA Pre",
-      "waitMin": 4,
-      "isPrecheck": false
+      "isPrecheck": true
     }
   ],
-  "updatedAtMs": 1775151582085,
-  "source": "https://www.dfwairport.com/security/",
+  "updatedAtMs": 1775155256467,
+  "source": "Airport API (direct)",
   "ok": true,
   "clear": {
     "open": true,

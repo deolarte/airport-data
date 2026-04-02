@@ -1,8 +1,8 @@
 {
   "code": "OAK",
   "checkpoints": [],
-  "updatedAtMs": 1775151944085,
-  "source": "TSA DHS API + clearme.com",
+  "updatedAtMs": 1775155419631,
+  "source": "clearme.com",
   "ok": false,
   "clear": {
     "open": true,

@@ -1,8 +1,8 @@
 {
   "code": "PIT",
   "checkpoints": [],
-  "updatedAtMs": 1775151944871,
-  "source": "TSA DHS API + clearme.com",
+  "updatedAtMs": 1775155436989,
+  "source": "clearme.com",
   "ok": false,
   "clear": {
     "open": true,

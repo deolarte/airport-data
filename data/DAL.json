@@ -1,8 +1,8 @@
 {
   "code": "DAL",
   "checkpoints": [],
-  "updatedAtMs": 1775151941743,
-  "source": "TSA DHS API + clearme.com",
+  "updatedAtMs": 1775155202349,
+  "source": "clearme.com",
   "ok": false,
   "clear": {
     "open": false,

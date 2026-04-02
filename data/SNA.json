@@ -1,8 +1,8 @@
 {
   "code": "SNA",
   "checkpoints": [],
-  "updatedAtMs": 1775151942560,
-  "source": "TSA DHS API + clearme.com",
+  "updatedAtMs": 1775155506706,
+  "source": "clearme.com",
   "ok": false,
   "clear": {
     "open": false,

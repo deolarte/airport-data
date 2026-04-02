@@ -1,8 +1,8 @@
 {
   "code": "MSY",
   "checkpoints": [],
-  "updatedAtMs": 1775151943127,
-  "source": "TSA DHS API + clearme.com",
+  "updatedAtMs": 1775155419631,
+  "source": "clearme.com",
   "ok": false,
   "clear": {
     "open": true,

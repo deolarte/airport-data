@@ -1,8 +1,8 @@
 {
   "code": "GRR",
   "checkpoints": [],
-  "updatedAtMs": 1775151941953,
-  "source": "TSA DHS API + clearme.com",
+  "updatedAtMs": 1775155275366,
+  "source": "clearme.com",
   "ok": false,
   "clear": {
     "open": false,
