@@ -1,0 +1,20 @@
+{
+  "code": "SNA",
+  "checkpoints": [],
+  "updatedAtMs": 1775145127282,
+  "source": "TSA DHS API + clearme.com",
+  "ok": false,
+  "clear": {
+    "open": false,
+    "terminals": [
+      {
+        "name": "Standard:",
+        "hours": "6:00am - 5:00pm"
+      },
+      {
+        "name": "TSA\u00a0PreCheck\u00ae:",
+        "hours": "6:00am - 5:00pm"
+      }
+    ]
+  }
+}

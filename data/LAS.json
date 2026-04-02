@@ -1,0 +1,48 @@
+{
+  "code": "LAS",
+  "checkpoints": [],
+  "updatedAtMs": 1775145126938,
+  "source": "TSA DHS API + clearme.com",
+  "ok": false,
+  "clear": {
+    "open": false,
+    "terminals": [
+      {
+        "name": "Terminal 1, A/B Gates",
+        "hours": "Sun, Mon, Thu, Fri: 4:00am - 8:00pm"
+      },
+      {
+        "name": "Terminal 1, C/D Gates",
+        "hours": "4:00am - 10:00pm"
+      },
+      {
+        "name": "Terminal 1, C Gates Annex",
+        "hours": "4:00am - 8:00pm"
+      },
+      {
+        "name": "Terminal 3, D/E Gates",
+        "hours": "Sun, Mon, Thu, Fri: 4:00am - 8:00pm"
+      },
+      {
+        "name": "Terminal 1, A/B Gates",
+        "hours": "Sun, Mon, Thu, Fri: 4:00am - 8:00pm"
+      },
+      {
+        "name": "Terminal 1, C/D Gates",
+        "hours": "4:00am - 10:00pm"
+      },
+      {
+        "name": "Terminal 1, C Gates Annex",
+        "hours": "4:00am - 8:00pm"
+      },
+      {
+        "name": "TSA\u00a0PreCheck\u00ae:",
+        "hours": "6:00am - 8:00pm"
+      },
+      {
+        "name": "Terminal 3, D/E Gates",
+        "hours": "Sun, Mon, Thu, Fri: 4:00am - 8:00pm"
+      }
+    ]
+  }
+}

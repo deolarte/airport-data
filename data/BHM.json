@@ -1,0 +1,24 @@
+{
+  "code": "BHM",
+  "checkpoints": [],
+  "updatedAtMs": 1775145124343,
+  "source": "TSA DHS API + clearme.com",
+  "ok": false,
+  "clear": {
+    "open": false,
+    "terminals": [
+      {
+        "name": "Central Checkpoint",
+        "hours": "Sun - Fri: 4:00am - 5:30pm"
+      },
+      {
+        "name": "Central Checkpoint",
+        "hours": "Sun - Fri: 4:00am - 5:30pm"
+      },
+      {
+        "name": "TSA\u00a0PreCheck\u00ae:",
+        "hours": "Sun - Fri: 7:00am - 6:00pm"
+      }
+    ]
+  }
+}

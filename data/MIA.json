@@ -1,0 +1,52 @@
+{
+  "code": "MIA",
+  "checkpoints": [],
+  "updatedAtMs": 1775145128277,
+  "source": "TSA DHS API + clearme.com",
+  "ok": false,
+  "clear": {
+    "open": true,
+    "terminals": [
+      {
+        "name": "Checkpoint E",
+        "hours": "4:15 am - 8:30pm"
+      },
+      {
+        "name": "Checkpoint F",
+        "hours": "4:15am - 8:00pm"
+      },
+      {
+        "name": "Checkpoint G",
+        "hours": "4:15am - 7:00pm"
+      },
+      {
+        "name": "Checkpoint H",
+        "hours": "Sun - Fri: 4:15am - 7:30pm"
+      },
+      {
+        "name": "Checkpoint J",
+        "hours": "4:15am - 9:00pm"
+      },
+      {
+        "name": "Checkpoint E",
+        "hours": "4:15 am - 8:30pm"
+      },
+      {
+        "name": "Checkpoint F",
+        "hours": "4:15am - 8:00pm"
+      },
+      {
+        "name": "Checkpoint G",
+        "hours": "4:15am - 7:00pm"
+      },
+      {
+        "name": "Checkpoint H",
+        "hours": "Sun - Fri: 4:15am - 7:30pm"
+      },
+      {
+        "name": "Checkpoint J",
+        "hours": "4:15am - 9:00pm"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "code": "BDL",
+  "checkpoints": [],
+  "updatedAtMs": 1775145124664,
+  "source": "TSA DHS API + clearme.com",
+  "ok": false,
+  "clear": {
+    "open": false,
+    "terminals": [
+      {
+        "name": "Standard:",
+        "hours": "Sun - Fri: 4:00am - 6:30pm"
+      },
+      {
+        "name": "TSA\u00a0PreCheck\u00ae:",
+        "hours": "Sun - Fri: 4:00am - 6:30pm"
+      },
+      {
+        "name": "Terminal A",
+        "hours": "Sun - Fri: 4:00am - 6:30pm"
+      },
+      {
+        "name": "TSA\u00a0PreCheck\u00ae:",
+        "hours": "6:00am - 6:00pm"
+      }
+    ]
+  }
+}

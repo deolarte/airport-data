@@ -1,0 +1,36 @@
+{
+  "code": "ONT",
+  "checkpoints": [],
+  "updatedAtMs": 1775145129150,
+  "source": "TSA DHS API + clearme.com",
+  "ok": false,
+  "clear": {
+    "open": false,
+    "terminals": [
+      {
+        "name": "Terminal 2",
+        "hours": "Sun, Mon, Thu, Fri: 4:00am - 5:00pm"
+      },
+      {
+        "name": "Terminal 4",
+        "hours": "Sun: 4:00am - 7:00pm"
+      },
+      {
+        "name": "Terminal 2",
+        "hours": "Sun, Mon, Thu, Fri: 4:00am - 5:00pm"
+      },
+      {
+        "name": "TSA\u00a0PreCheck\u00ae:",
+        "hours": "6:00am - 5:00pm"
+      },
+      {
+        "name": "Terminal 4",
+        "hours": "Sun: 4:00am - 7:00pm"
+      },
+      {
+        "name": "TSA\u00a0PreCheck\u00ae:",
+        "hours": "6:00am - 7:00pm"
+      }
+    ]
+  }
+}

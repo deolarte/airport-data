@@ -1,0 +1,24 @@
+{
+  "code": "GSP",
+  "checkpoints": [],
+  "updatedAtMs": 1775145126814,
+  "source": "TSA DHS API + clearme.com",
+  "ok": false,
+  "clear": {
+    "open": false,
+    "terminals": [
+      {
+        "name": "Main Checkpoint",
+        "hours": "4:00am - 5:30pm"
+      },
+      {
+        "name": "Main Checkpoint",
+        "hours": "4:00am - 5:30pm"
+      },
+      {
+        "name": "TSA\u00a0PreCheck\u00ae:",
+        "hours": "8:00am - 5:30pm"
+      }
+    ]
+  }
+}

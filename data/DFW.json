@@ -1,0 +1,36 @@
+{
+  "code": "DFW",
+  "checkpoints": [],
+  "updatedAtMs": 1775145125405,
+  "source": "TSA DHS API + clearme.com",
+  "ok": false,
+  "clear": {
+    "open": true,
+    "terminals": [
+      {
+        "name": "TSA\u00a0PreCheck\u00ae:",
+        "hours": "Sun - Fri: 4:00am - 6:00pm"
+      },
+      {
+        "name": "Standard:",
+        "hours": "Sun - Fri: 4:00am - 7:30pm"
+      },
+      {
+        "name": "Terminal E, Checkpoint E8",
+        "hours": "Sun - Fri: 4:00am - 7:00pm"
+      },
+      {
+        "name": "Terminal E, Checkpoint E18",
+        "hours": "Sun - Fri: 4:00am - 7:30pm"
+      },
+      {
+        "name": "TSA\u00a0PreCheck\u00ae:",
+        "hours": "6:00am - 6:00pm"
+      },
+      {
+        "name": "Terminal E, Checkpoint E8",
+        "hours": "Sun - Fri: 4:00am - 7:00pm"
+      }
+    ]
+  }
+}

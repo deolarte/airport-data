@@ -1,0 +1,24 @@
+{
+  "code": "MSY",
+  "checkpoints": [],
+  "updatedAtMs": 1775145127834,
+  "source": "TSA DHS API + clearme.com",
+  "ok": false,
+  "clear": {
+    "open": true,
+    "terminals": [
+      {
+        "name": "Main Terminal",
+        "hours": "3:30am - 7:00pm"
+      },
+      {
+        "name": "Main Terminal",
+        "hours": "4:00am - 7:00pm"
+      },
+      {
+        "name": "TSA\u00a0PreCheck\u00ae:",
+        "hours": "6:00am - 7:00pm"
+      }
+    ]
+  }
+}

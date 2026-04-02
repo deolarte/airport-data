@@ -1,0 +1,44 @@
+{
+  "code": "MCO",
+  "checkpoints": [],
+  "updatedAtMs": 1775145129300,
+  "source": "TSA DHS API + clearme.com",
+  "ok": false,
+  "clear": {
+    "open": true,
+    "terminals": [
+      {
+        "name": "Terminal C",
+        "hours": "Mon - Thu: 4:00am - 7:30pm"
+      },
+      {
+        "name": "Terminals A/B East Checkpoint",
+        "hours": "Mon - Sat: 4:00am - 8:30pm"
+      },
+      {
+        "name": "Terminals A/B West Checkpoint",
+        "hours": "4:00am - 9:00pm"
+      },
+      {
+        "name": "Terminal C",
+        "hours": "Mon - Thu: 4:00am - 7:30pm"
+      },
+      {
+        "name": "TSA\u00a0PreCheck\u00ae:",
+        "hours": "6:00am - 8:00pm"
+      },
+      {
+        "name": "Terminals A/B East Checkpoint",
+        "hours": "Mon - Sat: 4:00am - 8:30pm"
+      },
+      {
+        "name": "Terminals A/B West Checkpoint",
+        "hours": "4:00am - 9:00pm"
+      },
+      {
+        "name": "TSA\u00a0PreCheck\u00ae:",
+        "hours": "6:00am - 8:00pm"
+      }
+    ]
+  }
+}

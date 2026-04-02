@@ -1,0 +1,36 @@
+{
+  "code": "DEN",
+  "checkpoints": [],
+  "updatedAtMs": 1775145125852,
+  "source": "TSA DHS API + clearme.com",
+  "ok": false,
+  "clear": {
+    "open": true,
+    "terminals": [
+      {
+        "name": "Standard:",
+        "hours": "4:15am - 8:30pm"
+      },
+      {
+        "name": "TSA\u00a0PreCheck\u00ae:",
+        "hours": "4:15am - 7:30pm"
+      },
+      {
+        "name": "Standard:",
+        "hours": "4:15am - 8:30pm"
+      },
+      {
+        "name": "TSA\u00a0PreCheck\u00ae:",
+        "hours": "4:15am - 7:30pm"
+      },
+      {
+        "name": "East Checkpoint",
+        "hours": "4:15am - 8:30pm"
+      },
+      {
+        "name": "TSA\u00a0PreCheck\u00ae:",
+        "hours": "6:00am - 6:00pm"
+      }
+    ]
+  }
+}

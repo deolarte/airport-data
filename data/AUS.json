@@ -1,0 +1,28 @@
+{
+  "code": "AUS",
+  "checkpoints": [],
+  "updatedAtMs": 1775145124165,
+  "source": "TSA DHS API + clearme.com",
+  "ok": false,
+  "clear": {
+    "open": true,
+    "terminals": [
+      {
+        "name": "Standard:",
+        "hours": "4:00am - 7:00pm"
+      },
+      {
+        "name": "TSA\u00a0PreCheck\u00ae:",
+        "hours": "4:00am - 7:00pm"
+      },
+      {
+        "name": "Checkpoint 1",
+        "hours": "4:00am - 7:00pm"
+      },
+      {
+        "name": "TSA\u00a0PreCheck\u00ae:",
+        "hours": "6:00am - 5:30pm"
+      }
+    ]
+  }
+}

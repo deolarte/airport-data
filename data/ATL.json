@@ -1,7 +1,7 @@
 {
   "code": "ATL",
   "checkpoints": [],
-  "updatedAtMs": 1775140741765,
+  "updatedAtMs": 1775145110028,
   "source": "https://www.atl.com/travel-information/security-wait-times/",
   "ok": false,
   "error": "Page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.atl.com/travel-information/security-wait-times/\", waiting until \"networkidle\"\n",
@@ -9,20 +9,28 @@
     "open": true,
     "terminals": [
       {
-        "name": "Domestic Terminal North",
+        "name": "Standard:",
         "hours": "4:30am - 8:00pm"
       },
       {
-        "name": "Domestic Terminal South",
+        "name": "TSA\u00a0PreCheck\u00ae:",
         "hours": "4:30am - 9:00pm"
       },
       {
-        "name": "International Terminal",
+        "name": "Standard:",
         "hours": "5:00am - 7:30pm"
+      },
+      {
+        "name": "TSA\u00a0PreCheck\u00ae:",
+        "hours": "7:00am - 10:00am, 2:00pm - 7:00pm"
       },
       {
         "name": "Domestic Terminal North",
         "hours": "4:30am - 8:00pm"
+      },
+      {
+        "name": "TSA\u00a0PreCheck\u00ae:",
+        "hours": "6:00am - 8:00pm"
       },
       {
         "name": "Domestic Terminal South",

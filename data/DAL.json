@@ -1,0 +1,24 @@
+{
+  "code": "DAL",
+  "checkpoints": [],
+  "updatedAtMs": 1775145125565,
+  "source": "TSA DHS API + clearme.com",
+  "ok": false,
+  "clear": {
+    "open": false,
+    "terminals": [
+      {
+        "name": "Terminal 1",
+        "hours": "Sun - Fri: 4:30am - 8:30pm"
+      },
+      {
+        "name": "Terminal 1",
+        "hours": "Sun - Fri: 4:30am - 8:30pm"
+      },
+      {
+        "name": "TSA\u00a0PreCheck\u00ae:",
+        "hours": "Mon - Fri: 6:00am - 8:00pm"
+      }
+    ]
+  }
+}

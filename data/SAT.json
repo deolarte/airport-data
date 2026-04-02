@@ -1,0 +1,32 @@
+{
+  "code": "SAT",
+  "checkpoints": [],
+  "updatedAtMs": 1775145131134,
+  "source": "TSA DHS API + clearme.com",
+  "ok": false,
+  "clear": {
+    "open": false,
+    "terminals": [
+      {
+        "name": "Terminal A",
+        "hours": "Sun, Thu, Fri: 4:00am - 7:00pm"
+      },
+      {
+        "name": "Terminal B",
+        "hours": "Sun - Fri: 4:00am - 6:00pm"
+      },
+      {
+        "name": "Terminal A",
+        "hours": "Sun, Thu, Fri: 4:00am - 7:00pm"
+      },
+      {
+        "name": "TSA\u00a0PreCheck\u00ae:",
+        "hours": "6:00am - 7:00pm"
+      },
+      {
+        "name": "Terminal B",
+        "hours": "Sun - Fri: 4:00am - 6:00pm"
+      }
+    ]
+  }
+}

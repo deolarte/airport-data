@@ -1,0 +1,36 @@
+{
+  "code": "DTW",
+  "checkpoints": [],
+  "updatedAtMs": 1775145125989,
+  "source": "TSA DHS API + clearme.com",
+  "ok": false,
+  "clear": {
+    "open": true,
+    "terminals": [
+      {
+        "name": "TSA\u00a0PreCheck\u00ae:",
+        "hours": "4:00am - 7:30pm"
+      },
+      {
+        "name": "Standard:",
+        "hours": "Mon-Sat: 4:00am - 7:00pm"
+      },
+      {
+        "name": "TSA\u00a0PreCheck\u00ae:",
+        "hours": "4:15am - 8:00pm"
+      },
+      {
+        "name": "Evans Terminal",
+        "hours": "Sun-Fri: 4:00am - 7:30pm"
+      },
+      {
+        "name": "McNamara Terminal",
+        "hours": "Mon-Sat: 4:00am - 7:00pm"
+      },
+      {
+        "name": "TSA\u00a0PreCheck\u00ae:",
+        "hours": "6:00am - 8:00pm"
+      }
+    ]
+  }
+}

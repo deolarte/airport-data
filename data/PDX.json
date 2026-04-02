@@ -1,0 +1,28 @@
+{
+  "code": "PDX",
+  "checkpoints": [],
+  "updatedAtMs": 1775145130009,
+  "source": "TSA DHS API + clearme.com",
+  "ok": false,
+  "clear": {
+    "open": true,
+    "terminals": [
+      {
+        "name": "North Security Checkpoint",
+        "hours": "4:00am - 10:00pm"
+      },
+      {
+        "name": "South Security Checkpoint",
+        "hours": "Sun, Mon, Thu: 4:30am - 9:00pm"
+      },
+      {
+        "name": "North Security Checkpoint",
+        "hours": "4:00am - 10:00pm"
+      },
+      {
+        "name": "South Security Checkpoint",
+        "hours": "Sun, Mon, Thu: 4:30am - 9:00pm"
+      }
+    ]
+  }
+}

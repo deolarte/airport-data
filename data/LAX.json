@@ -1,10 +1,9 @@
 {
   "code": "LAX",
   "checkpoints": [],
-  "updatedAtMs": 1775140794063,
+  "updatedAtMs": 1775145123803,
   "source": "https://www.flylax.com/security",
   "ok": false,
-  "error": "Page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.flylax.com/security\", waiting until \"networkidle\"\n",
   "clear": {
     "open": true,
     "terminals": [
@@ -13,7 +12,11 @@
         "hours": "4:00am - 7:00pm"
       },
       {
-        "name": "Terminal 3",
+        "name": "Standard:",
+        "hours": "Sun, Mon, Thu, Fri: 4:00am - 10:00pm"
+      },
+      {
+        "name": "TSA\u00a0PreCheck\u00ae:",
         "hours": "Sun, Mon, Thu, Fri: 4:00am - 10:00pm"
       },
       {
@@ -25,12 +28,16 @@
         "hours": "4:00am - 7:00pm"
       },
       {
-        "name": "Terminal 7",
+        "name": "Standard:",
         "hours": "4:00am - 10:00pm"
       },
       {
-        "name": "Tom Bradley International Terminal",
+        "name": "Standard:",
         "hours": "7:00am - 10:00pm"
+      },
+      {
+        "name": "TSA\u00a0PreCheck\u00ae:",
+        "hours": "7:00am - 2:00pm, 4:00pm - 7:00pm"
       },
       {
         "name": "Terminal 1",
@@ -39,6 +46,10 @@
       {
         "name": "Terminal 3",
         "hours": "Sun, Mon, Thu, Fri: 4:00am - 10:00pm"
+      },
+      {
+        "name": "TSA\u00a0PreCheck\u00ae:",
+        "hours": "6:00am - 8:00pm"
       },
       {
         "name": "Terminal 4",
@@ -51,6 +62,10 @@
       {
         "name": "Terminal 7",
         "hours": "4:00am - 10:00pm"
+      },
+      {
+        "name": "TSA\u00a0PreCheck\u00ae:",
+        "hours": "6:00am - 8:00pm"
       },
       {
         "name": "Tom Bradley International Terminal",

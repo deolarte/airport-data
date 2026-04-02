@@ -1,0 +1,24 @@
+{
+  "code": "MCI",
+  "checkpoints": [],
+  "updatedAtMs": 1775145127556,
+  "source": "TSA DHS API + clearme.com",
+  "ok": false,
+  "clear": {
+    "open": true,
+    "terminals": [
+      {
+        "name": "North Checkpoint",
+        "hours": "Sun, Mon, Thu, Fri: 4:00am - 6:00pm"
+      },
+      {
+        "name": "North Checkpoint",
+        "hours": "Sun, Mon, Thu, Fri: 4:00am - 6:00pm"
+      },
+      {
+        "name": "TSA\u00a0PreCheck\u00ae:",
+        "hours": "6:00am - 6:00pm"
+      }
+    ]
+  }
+}

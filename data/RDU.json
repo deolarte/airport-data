@@ -1,0 +1,32 @@
+{
+  "code": "RDU",
+  "checkpoints": [],
+  "updatedAtMs": 1775145130235,
+  "source": "TSA DHS API + clearme.com",
+  "ok": false,
+  "clear": {
+    "open": true,
+    "terminals": [
+      {
+        "name": "Terminal 1",
+        "hours": "Sun - Fri: 4:00am - 7:00 pm"
+      },
+      {
+        "name": "Terminal 2",
+        "hours": "Sun, Mon, Thu, Fri: 4:00am - 7:45pm"
+      },
+      {
+        "name": "Terminal 1",
+        "hours": "Sun - Fri: 4:00am - 7:00 pm"
+      },
+      {
+        "name": "Terminal 2",
+        "hours": "Sun, Mon, Thu, Fri: 4:00am - 7:45pm"
+      },
+      {
+        "name": "TSA\u00a0PreCheck\u00ae:",
+        "hours": "6:00am - 6:00pm"
+      }
+    ]
+  }
+}

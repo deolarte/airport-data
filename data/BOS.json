@@ -1,11 +1,40 @@
 {
   "code": "BOS",
   "checkpoints": [],
-  "updatedAtMs": 1775140748996,
+  "updatedAtMs": 1775145116202,
   "source": "https://www.massport.com/logan-airport/security-and-screening",
   "ok": false,
   "clear": {
     "open": true,
-    "terminals": []
+    "terminals": [
+      {
+        "name": "Terminal A",
+        "hours": "Sun - Fri: 4:00am - 7:30pm"
+      },
+      {
+        "name": "Terminal B",
+        "hours": "Sun - Fri: 4:00am - 6:00pm"
+      },
+      {
+        "name": "Terminal E",
+        "hours": "4:30 am - 8:30 pm"
+      },
+      {
+        "name": "Terminal A",
+        "hours": "Sun - Fri: 4:00am - 7:30pm"
+      },
+      {
+        "name": "TSA\u00a0PreCheck\u00ae:",
+        "hours": "6:00 am - 6:00 pm"
+      },
+      {
+        "name": "Terminal B",
+        "hours": "Sun - Fri: 4:00am - 6:00pm"
+      },
+      {
+        "name": "Terminal E",
+        "hours": "4:30 am - 8:30 pm"
+      }
+    ]
   }
 }

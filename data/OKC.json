@@ -1,0 +1,24 @@
+{
+  "code": "OKC",
+  "checkpoints": [],
+  "updatedAtMs": 1775145132677,
+  "source": "TSA DHS API + clearme.com",
+  "ok": false,
+  "clear": {
+    "open": false,
+    "terminals": [
+      {
+        "name": "Main Checkpoint",
+        "hours": "Sun - Fri: 4:00am - 6:00pm"
+      },
+      {
+        "name": "Main Checkpoint",
+        "hours": "Sun - Fri: 4:00am - 6:00pm"
+      },
+      {
+        "name": "TSA\u00a0PreCheck\u00ae:",
+        "hours": "Sunday - Friday: 6:00am - 5:00pm"
+      }
+    ]
+  }
+}

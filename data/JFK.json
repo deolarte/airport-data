@@ -3,51 +3,51 @@
   "checkpoints": [
     {
       "terminal": "Terminal 1",
-      "waitMin": 18,
+      "waitMin": 6,
       "isPrecheck": false
     },
     {
       "terminal": "Terminal 1",
-      "waitMin": 11,
+      "waitMin": 4,
       "isPrecheck": false
     },
     {
       "terminal": "Terminal 4",
-      "waitMin": 2,
+      "waitMin": 1,
       "isPrecheck": false
     },
     {
       "terminal": "Terminal 4",
-      "waitMin": 8,
+      "waitMin": 14,
       "isPrecheck": false
     },
     {
       "terminal": "Terminal 5",
-      "waitMin": 8,
+      "waitMin": 7,
       "isPrecheck": false
     },
     {
       "terminal": "Terminal 5",
-      "waitMin": 13,
+      "waitMin": 36,
       "isPrecheck": false
     },
     {
       "terminal": "Terminal 7",
-      "waitMin": 16,
+      "waitMin": 11,
       "isPrecheck": false
     },
     {
       "terminal": "Terminal 8",
-      "waitMin": 12,
+      "waitMin": 11,
       "isPrecheck": false
     },
     {
       "terminal": "Terminal 8",
-      "waitMin": 7,
+      "waitMin": 5,
       "isPrecheck": false
     }
   ],
-  "updatedAtMs": 1775140606569,
+  "updatedAtMs": 1775145051739,
   "source": "https://www.jfkairport.com",
   "ok": true,
   "clear": {
@@ -58,12 +58,20 @@
         "hours": "Sun - Fri: 4:30am - 8:00pm"
       },
       {
-        "name": "Terminal 4, Departures",
+        "name": "Standard:",
         "hours": "Sun, Wed, Thur, Fri: 4:30am - 10:00pm"
+      },
+      {
+        "name": "TSA\u00a0PreCheck\u00ae:",
+        "hours": "4:30am - 9:30pm"
       },
       {
         "name": "Terminal 4, Departures",
         "hours": "4:30am - 10:00pm"
+      },
+      {
+        "name": "TSA\u00a0PreCheck\u00ae:",
+        "hours": "6:00am - 8:00pm"
       }
     ]
   }

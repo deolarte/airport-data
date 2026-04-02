@@ -1,0 +1,44 @@
+{
+  "code": "ORD",
+  "checkpoints": [],
+  "updatedAtMs": 1775145133166,
+  "source": "TSA DHS API + clearme.com",
+  "ok": false,
+  "clear": {
+    "open": true,
+    "terminals": [
+      {
+        "name": "Terminal 1",
+        "hours": "Sun, Mon, Wed, Thu, Fri: 4:30am - 8:00pm"
+      },
+      {
+        "name": "Terminal 2",
+        "hours": "Sun, Mon: 4:30pm - 8:00pm"
+      },
+      {
+        "name": "Terminal 5",
+        "hours": "Sun - Fri: 4:30am - 7:30pm"
+      },
+      {
+        "name": "Terminal 1",
+        "hours": "Sun, Mon, Wed, Thu, Fri: 4:30am - 8:00pm"
+      },
+      {
+        "name": "TSA\u00a0PreCheck\u00ae:",
+        "hours": "6:00am - 8:00pm"
+      },
+      {
+        "name": "Terminal 2",
+        "hours": "Sun, Mon: 4:30pm - 8:00pm"
+      },
+      {
+        "name": "Terminal 5",
+        "hours": "Sun - Fri: 4:30am - 7:30pm"
+      },
+      {
+        "name": "TSA\u00a0PreCheck\u00ae:",
+        "hours": "6:00am - 8:00pm"
+      }
+    ]
+  }
+}

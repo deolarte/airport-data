@@ -1,0 +1,32 @@
+{
+  "code": "MKE",
+  "checkpoints": [],
+  "updatedAtMs": 1775145128412,
+  "source": "TSA DHS API + clearme.com",
+  "ok": false,
+  "clear": {
+    "open": true,
+    "terminals": [
+      {
+        "name": "Checkpoint C",
+        "hours": "Sun - Thu: 4:00am - 5:30pm"
+      },
+      {
+        "name": "Checkpoint D",
+        "hours": "Sun - Thu: 4:00am - 6:00pm"
+      },
+      {
+        "name": "Checkpoint C",
+        "hours": "Sun - Thu: 4:00am - 5:30pm"
+      },
+      {
+        "name": "Checkpoint D",
+        "hours": "Sun - Thu: 4:00am - 6:00pm"
+      },
+      {
+        "name": "TSA\u00a0PreCheck\u00ae:",
+        "hours": "Sun - Thu: 6:00am - 6:00pm"
+      }
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "code": "SFO",
+  "checkpoints": [],
+  "updatedAtMs": 1775145131397,
+  "source": "TSA DHS API + clearme.com",
+  "ok": false,
+  "clear": {
+    "open": true,
+    "terminals": [
+      {
+        "name": "International Terminal, Checkpoint A",
+        "hours": "7:00am - 9:30pm"
+      },
+      {
+        "name": "International Terminal, Checkpoint G",
+        "hours": "6:00am - 9:00pm"
+      },
+      {
+        "name": "Terminal 1, Checkpoint B",
+        "hours": "4:00am - 11:00pm"
+      },
+      {
+        "name": "Terminal 2, Checkpoint D",
+        "hours": "4:30am - 10:00pm"
+      },
+      {
+        "name": "TSA\u00a0PreCheck\u00ae:",
+        "hours": "4:00am - 11:00pm"
+      },
+      {
+        "name": "International Terminal, Checkpoint A",
+        "hours": "7:00am - 9:30pm"
+      },
+      {
+        "name": "TSA\u00a0PreCheck\u00ae:",
+        "hours": "7:00am - 8:00pm"
+      },
+      {
+        "name": "International Terminal, Checkpoint G",
+        "hours": "6:00am - 9:00pm"
+      },
+      {
+        "name": "Terminal 1, Checkpoint B",
+        "hours": "4:00am - 11:00pm"
+      },
+      {
+        "name": "Terminal 2, Checkpoint D",
+        "hours": "4:30am - 10:00pm"
+      },
+      {
+        "name": "TSA\u00a0PreCheck\u00ae:",
+        "hours": "6:00am - 8:00pm"
+      },
+      {
+        "name": "Terminal 3, Checkpoint F",
+        "hours": "4:00am - 12:00am"
+      },
+      {
+        "name": "TSA\u00a0PreCheck\u00ae:",
+        "hours": "6:00am - 8:00pm"
+      }
+    ]
+  }
+}

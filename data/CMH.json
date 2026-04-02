@@ -1,0 +1,40 @@
+{
+  "code": "CMH",
+  "checkpoints": [],
+  "updatedAtMs": 1775145127113,
+  "source": "TSA DHS API + clearme.com",
+  "ok": false,
+  "clear": {
+    "open": false,
+    "terminals": [
+      {
+        "name": "Checkpoint A",
+        "hours": "Sun - Fri: 4:00am - 7:00pm"
+      },
+      {
+        "name": "Checkpoint B",
+        "hours": "4:00am - 7:00pm"
+      },
+      {
+        "name": "Checkpoint C",
+        "hours": "Mon, Tue, Wed, Fri: 4:00am - 6:00pm"
+      },
+      {
+        "name": "Checkpoint A",
+        "hours": "Sun - Fri: 4:00am - 7:00pm"
+      },
+      {
+        "name": "Checkpoint B",
+        "hours": "4:00am - 7:00pm"
+      },
+      {
+        "name": "TSA\u00a0PreCheck\u00ae:",
+        "hours": "6:00am - 7:30pm"
+      },
+      {
+        "name": "Checkpoint C",
+        "hours": "Mon, Tue, Wed, Fri: 4:00am - 6:00pm"
+      }
+    ]
+  }
+}

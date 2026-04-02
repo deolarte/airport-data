@@ -1,0 +1,32 @@
+{
+  "code": "PBI",
+  "checkpoints": [],
+  "updatedAtMs": 1775145129436,
+  "source": "TSA DHS API + clearme.com",
+  "ok": false,
+  "clear": {
+    "open": false,
+    "terminals": [
+      {
+        "name": "Terminal A/B",
+        "hours": "4:30am - 6:30pm"
+      },
+      {
+        "name": "Terminal C",
+        "hours": "Sun - Tue: 4:30am - 8:00pm"
+      },
+      {
+        "name": "Terminal A/B",
+        "hours": "4:30am - 6:30pm"
+      },
+      {
+        "name": "Terminal C",
+        "hours": "Sun - Tue: 4:30am - 8:00pm"
+      },
+      {
+        "name": "TSA\u00a0PreCheck\u00ae:",
+        "hours": "6:00 am - 7:00 pm"
+      }
+    ]
+  }
+}

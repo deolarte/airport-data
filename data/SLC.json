@@ -1,0 +1,28 @@
+{
+  "code": "SLC",
+  "checkpoints": [],
+  "updatedAtMs": 1775145131015,
+  "source": "TSA DHS API + clearme.com",
+  "ok": false,
+  "clear": {
+    "open": true,
+    "terminals": [
+      {
+        "name": "Standard:",
+        "hours": "5:00am - 8:30pm"
+      },
+      {
+        "name": "TSA\u00a0PreCheck\u00ae:",
+        "hours": "Sun, Wed, Thu: 5:00am - 9:00pm"
+      },
+      {
+        "name": "Main Terminal",
+        "hours": "5:00am - 8:30pm"
+      },
+      {
+        "name": "TSA\u00a0PreCheck\u00ae:",
+        "hours": "Mon - Sun: 6:00am - 8:00pm"
+      }
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "code": "PHX",
+  "checkpoints": [],
+  "updatedAtMs": 1775145129757,
+  "source": "TSA DHS API + clearme.com",
+  "ok": false,
+  "clear": {
+    "open": true,
+    "terminals": [
+      {
+        "name": "Terminal 3",
+        "hours": "4:00am - 8:00pm"
+      },
+      {
+        "name": "Terminal 4, Checkpoint A",
+        "hours": "4:00am - 8:00pm"
+      },
+      {
+        "name": "Terminal 4, Checkpoint B",
+        "hours": "Sun, Tue, Sat: 5:00am - 6:00pm"
+      },
+      {
+        "name": "Terminal 4, Checkpoint C",
+        "hours": "4:00am - 7:30pm"
+      },
+      {
+        "name": "Terminal 4, Checkpoint D",
+        "hours": "4:00am - 7:00pm"
+      },
+      {
+        "name": "Terminal 3",
+        "hours": "4:00am - 8:00pm"
+      },
+      {
+        "name": "TSA\u00a0PreCheck\u00ae:",
+        "hours": "6:00 am - 7:00 pm"
+      },
+      {
+        "name": "Terminal 4, Checkpoint A",
+        "hours": "4:00am - 8:00pm"
+      },
+      {
+        "name": "Terminal 4, Checkpoint B",
+        "hours": "Sun, Tue, Sat: 5:00am - 6:00pm"
+      },
+      {
+        "name": "TSA\u00a0PreCheck\u00ae:",
+        "hours": "6:00 am - 7:00 pm"
+      },
+      {
+        "name": "Terminal 4, Checkpoint C",
+        "hours": "4:00am - 7:30pm"
+      },
+      {
+        "name": "Terminal 4, Checkpoint D",
+        "hours": "4:00am - 7:00pm"
+      }
+    ]
+  }
+}

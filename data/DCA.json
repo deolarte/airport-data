@@ -1,0 +1,40 @@
+{
+  "code": "DCA",
+  "checkpoints": [],
+  "updatedAtMs": 1775145130638,
+  "source": "TSA DHS API + clearme.com",
+  "ok": false,
+  "clear": {
+    "open": true,
+    "terminals": [
+      {
+        "name": "Terminal 1",
+        "hours": "Sun - Fri: 4:00am - 7:30pm"
+      },
+      {
+        "name": "Terminal 2, North",
+        "hours": "Sun - Fri: 4:00am - 9:00pm"
+      },
+      {
+        "name": "Terminal 2, South",
+        "hours": "Sun - Fri: 4:00am - 8:00pm"
+      },
+      {
+        "name": "Terminal 1",
+        "hours": "Sun - Fri: 4:00am - 7:30pm"
+      },
+      {
+        "name": "Terminal 2, North",
+        "hours": "Sun - Fri: 4:00am - 9:00pm"
+      },
+      {
+        "name": "TSA\u00a0PreCheck\u00ae:",
+        "hours": "Sun - Fri: 6:00am - 9:00pm"
+      },
+      {
+        "name": "Terminal 2, South",
+        "hours": "Sun - Fri: 4:00am - 8:00pm"
+      }
+    ]
+  }
+}

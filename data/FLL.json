@@ -1,0 +1,48 @@
+{
+  "code": "FLL",
+  "checkpoints": [],
+  "updatedAtMs": 1775145126161,
+  "source": "TSA DHS API + clearme.com",
+  "ok": false,
+  "clear": {
+    "open": true,
+    "terminals": [
+      {
+        "name": "Terminal 1",
+        "hours": "Sun, Mon, Thu, Fri: 4:30am - 7:30pm"
+      },
+      {
+        "name": "Standard:",
+        "hours": "Sun, Mon, Thu, Fri: 4:30am - 7:30pm"
+      },
+      {
+        "name": "TSA\u00a0PreCheck\u00ae:",
+        "hours": "Sun, Mon, Thu, Fri: 4:30am - 7:30pm"
+      },
+      {
+        "name": "Terminal 3, Gate F",
+        "hours": "4:30am - 8:30pm"
+      },
+      {
+        "name": "Terminal 4",
+        "hours": "Sun, Mon, Thu, Fri: 4:30am - 7:30pm"
+      },
+      {
+        "name": "Terminal 1",
+        "hours": "Sun, Mon, Thu, Fri: 4:30am - 7:30pm"
+      },
+      {
+        "name": "Terminal 2",
+        "hours": "Sun, Mon, Thu, Fri: 4:30am - 7:30pm"
+      },
+      {
+        "name": "Terminal 3, Gate F",
+        "hours": "4:30am - 8:30pm"
+      },
+      {
+        "name": "Terminal 4",
+        "hours": "Sun, Mon, Thu, Fri: 4:30am - 7:30pm"
+      }
+    ]
+  }
+}

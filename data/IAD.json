@@ -1,0 +1,32 @@
+{
+  "code": "IAD",
+  "checkpoints": [],
+  "updatedAtMs": 1775145132296,
+  "source": "TSA DHS API + clearme.com",
+  "ok": false,
+  "clear": {
+    "open": true,
+    "terminals": [
+      {
+        "name": "Standard:",
+        "hours": "4:30am - 9:30pm"
+      },
+      {
+        "name": "TSA\u00a0PreCheck\u00ae:",
+        "hours": "4:30am - 9:00pm"
+      },
+      {
+        "name": "East Mezzanine",
+        "hours": "4:30am - 9:30pm"
+      },
+      {
+        "name": "Main Terminal",
+        "hours": "4:30am - 9:30pm"
+      },
+      {
+        "name": "TSA\u00a0PreCheck\u00ae:",
+        "hours": "6:00am - 9:00pm"
+      }
+    ]
+  }
+}

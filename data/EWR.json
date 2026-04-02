@@ -1,10 +1,9 @@
 {
   "code": "EWR",
   "checkpoints": [],
-  "updatedAtMs": 1775140696711,
+  "updatedAtMs": 1775145064953,
   "source": "https://www.newarkairport.com/at-the-airport/security",
   "ok": false,
-  "error": "Page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.newarkairport.com/at-the-airport/security\", waiting until \"networkidle\"\n",
   "clear": {
     "open": true,
     "terminals": [
@@ -17,12 +16,20 @@
         "hours": "Sun - Fri: 4:30am - 7:30pm"
       },
       {
-        "name": "Terminal C",
+        "name": "Standard:",
         "hours": "4:00am - 10:00pm"
+      },
+      {
+        "name": "TSA\u00a0PreCheck\u00ae:",
+        "hours": "4:30am - 8:00pm"
       },
       {
         "name": "Terminal A",
         "hours": "Sun - Fri: 4:30am - 8:00pm"
+      },
+      {
+        "name": "TSA\u00a0PreCheck\u00ae:",
+        "hours": "6:00am - 8:00pm"
       },
       {
         "name": "Terminal B",
@@ -31,6 +38,10 @@
       {
         "name": "Terminal C",
         "hours": "4:30am - 8:00pm"
+      },
+      {
+        "name": "TSA\u00a0PreCheck\u00ae:",
+        "hours": "6:00am - 8:00pm"
       }
     ]
   }

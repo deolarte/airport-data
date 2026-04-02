@@ -1,0 +1,20 @@
+{
+  "code": "SAV",
+  "checkpoints": [],
+  "updatedAtMs": 1775145131694,
+  "source": "TSA DHS API + clearme.com",
+  "ok": false,
+  "clear": {
+    "open": false,
+    "terminals": [
+      {
+        "name": "TSA\u00a0PreCheck\u00ae:",
+        "hours": "6:00am - 3:00pm"
+      },
+      {
+        "name": "Main Terminal",
+        "hours": "4:00am - 6:00pm"
+      }
+    ]
+  }
+}
