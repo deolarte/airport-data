@@ -2,42 +2,52 @@
   "code": "JFK",
   "checkpoints": [
     {
-      "terminal": "1",
-      "waitMin": 9,
+      "terminal": "Terminal 1",
+      "waitMin": 2,
       "isPrecheck": false
     },
     {
-      "terminal": "1",
-      "waitMin": 8,
+      "terminal": "Terminal 1",
+      "waitMin": 2,
       "isPrecheck": false
     },
     {
-      "terminal": "4",
+      "terminal": "Terminal 4",
       "waitMin": 1,
       "isPrecheck": false
     },
     {
-      "terminal": "4",
-      "waitMin": 13,
+      "terminal": "Terminal 4",
+      "waitMin": 3,
       "isPrecheck": false
     },
     {
-      "terminal": "7",
-      "waitMin": 5,
+      "terminal": "Terminal 5",
+      "waitMin": 0,
       "isPrecheck": false
     },
     {
-      "terminal": "8",
-      "waitMin": 5,
+      "terminal": "Terminal 5",
+      "waitMin": 2,
       "isPrecheck": false
     },
     {
-      "terminal": "8",
-      "waitMin": 4,
+      "terminal": "Terminal 7",
+      "waitMin": 2,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "Terminal 8",
+      "waitMin": 3,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "Terminal 8",
+      "waitMin": 1,
       "isPrecheck": false
     }
   ],
-  "updatedAtMs": 1775100654711,
+  "updatedAtMs": 1775107467322,
   "source": "https://www.jfkairport.com",
   "ok": true
 }
