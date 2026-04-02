@@ -1,8 +1,8 @@
 {
   "code": "MDW",
   "checkpoints": [],
-  "updatedAtMs": 1775145133038,
-  "source": "TSA DHS API + clearme.com",
+  "updatedAtMs": 1775148418852,
+  "source": "https://www.flychicago.com/midway/mysecurity/waittime.aspx",
   "ok": false,
   "clear": {
     "open": true,

@@ -1,9 +1,10 @@
 {
   "code": "MCI",
   "checkpoints": [],
-  "updatedAtMs": 1775145127556,
-  "source": "TSA DHS API + clearme.com",
+  "updatedAtMs": 1775148340528,
+  "source": "https://www.flykci.com/security",
   "ok": false,
+  "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.flykci.com/security\nCall log:\n  - navigating to \"https://www.flykci.com/security\", waiting until \"networkidle\"\n",
   "clear": {
     "open": true,
     "terminals": [

@@ -1,8 +1,8 @@
 {
   "code": "SEA",
   "checkpoints": [],
-  "updatedAtMs": 1775145131826,
-  "source": "TSA DHS API + clearme.com",
+  "updatedAtMs": 1775148157740,
+  "source": "https://www.portseattle.org/sea-tac/security",
   "ok": false,
   "clear": {
     "open": true,

@@ -1,8 +1,8 @@
 {
   "code": "MIA",
   "checkpoints": [],
-  "updatedAtMs": 1775145128277,
-  "source": "TSA DHS API + clearme.com",
+  "updatedAtMs": 1775148151008,
+  "source": "https://www.miami-airport.com/security.asp",
   "ok": false,
   "clear": {
     "open": true,

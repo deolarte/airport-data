@@ -1,8 +1,8 @@
 {
   "code": "RDU",
   "checkpoints": [],
-  "updatedAtMs": 1775145130235,
-  "source": "TSA DHS API + clearme.com",
+  "updatedAtMs": 1775148355663,
+  "source": "https://www.rdu.com/security/",
   "ok": false,
   "clear": {
     "open": true,

@@ -1,8 +1,8 @@
 {
   "code": "SAN",
   "checkpoints": [],
-  "updatedAtMs": 1775145131268,
-  "source": "TSA DHS API + clearme.com",
+  "updatedAtMs": 1775148316768,
+  "source": "https://www.san.org/getting-around/security",
   "ok": false,
   "clear": {
     "open": true,

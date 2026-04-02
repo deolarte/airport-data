@@ -1,8 +1,8 @@
 {
   "code": "ORD",
   "checkpoints": [],
-  "updatedAtMs": 1775145133166,
-  "source": "TSA DHS API + clearme.com",
+  "updatedAtMs": 1775148047129,
+  "source": "https://www.flychicago.com/ohare/mysecurity/waittime.aspx",
   "ok": false,
   "clear": {
     "open": true,

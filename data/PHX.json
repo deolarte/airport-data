@@ -1,9 +1,10 @@
 {
   "code": "PHX",
   "checkpoints": [],
-  "updatedAtMs": 1775145129757,
-  "source": "TSA DHS API + clearme.com",
+  "updatedAtMs": 1775148203057,
+  "source": "https://www.skyharbor.com/Security",
   "ok": false,
+  "error": "Page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.skyharbor.com/Security\", waiting until \"networkidle\"\n",
   "clear": {
     "open": true,
     "terminals": [

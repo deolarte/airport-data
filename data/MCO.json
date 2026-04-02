@@ -1,9 +1,10 @@
 {
   "code": "MCO",
   "checkpoints": [],
-  "updatedAtMs": 1775145129300,
-  "source": "TSA DHS API + clearme.com",
+  "updatedAtMs": 1775148158006,
+  "source": "https://orlandoairports.net/security-wait-times/",
   "ok": false,
+  "error": "Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://orlandoairports.net/security-wait-times/\nCall log:\n  - navigating to \"https://orlandoairports.net/security-wait-times/\", waiting until \"networkidle\"\n",
   "clear": {
     "open": true,
     "terminals": [

@@ -1,9 +1,15 @@
 {
   "code": "DCA",
-  "checkpoints": [],
-  "updatedAtMs": 1775145130638,
-  "source": "TSA DHS API + clearme.com",
-  "ok": false,
+  "checkpoints": [
+    {
+      "terminal": "Park Free Up to",
+      "waitMin": 60,
+      "isPrecheck": false
+    }
+  ],
+  "updatedAtMs": 1775148302771,
+  "source": "https://www.flyreagan.com/security",
+  "ok": true,
   "clear": {
     "open": true,
     "terminals": [

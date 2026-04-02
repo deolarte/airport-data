@@ -1,8 +1,8 @@
 {
   "code": "SLC",
   "checkpoints": [],
-  "updatedAtMs": 1775145131015,
-  "source": "TSA DHS API + clearme.com",
+  "updatedAtMs": 1775148296051,
+  "source": "https://www.slcairport.com/travel-info/security/",
   "ok": false,
   "clear": {
     "open": true,

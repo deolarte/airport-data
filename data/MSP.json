@@ -1,9 +1,10 @@
 {
   "code": "MSP",
   "checkpoints": [],
-  "updatedAtMs": 1775145128550,
-  "source": "TSA DHS API + clearme.com",
+  "updatedAtMs": 1775148248127,
+  "source": "https://www.mspairport.com/at-airport/security",
   "ok": false,
+  "error": "Page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.mspairport.com/at-airport/security\", waiting until \"networkidle\"\n",
   "clear": {
     "open": true,
     "terminals": [

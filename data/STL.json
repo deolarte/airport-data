@@ -1,9 +1,15 @@
 {
   "code": "STL",
-  "checkpoints": [],
-  "updatedAtMs": 1775145132025,
-  "source": "TSA DHS API + clearme.com",
-  "ok": false,
+  "checkpoints": [
+    {
+      "terminal": "Estimated Wait Times",
+      "waitMin": 8,
+      "isPrecheck": false
+    }
+  ],
+  "updatedAtMs": 1775148340293,
+  "source": "https://www.flystl.com/security",
+  "ok": true,
   "clear": {
     "open": true,
     "terminals": [

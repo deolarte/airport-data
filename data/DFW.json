@@ -1,9 +1,175 @@
 {
   "code": "DFW",
-  "checkpoints": [],
-  "updatedAtMs": 1775145125405,
-  "source": "TSA DHS API + clearme.com",
-  "ok": false,
+  "checkpoints": [
+    {
+      "terminal": "General",
+      "waitMin": 10,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "Priority",
+      "waitMin": 4,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "General",
+      "waitMin": 4,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "Priority",
+      "waitMin": 0,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "TSA Pre",
+      "waitMin": 8,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "General",
+      "waitMin": 2,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "Priority",
+      "waitMin": 0,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "General",
+      "waitMin": 2,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "Priority",
+      "waitMin": 2,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "TSA Pre",
+      "waitMin": 0,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "General",
+      "waitMin": 28,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "Priority",
+      "waitMin": 4,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "TSA Pre",
+      "waitMin": 22,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "General",
+      "waitMin": 0,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "Priority",
+      "waitMin": 0,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "TSA Pre",
+      "waitMin": 2,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "General",
+      "waitMin": 2,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "Priority",
+      "waitMin": 2,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "TSA Pre",
+      "waitMin": 0,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "General",
+      "waitMin": 2,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "TSA Pre",
+      "waitMin": 2,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "General",
+      "waitMin": 2,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "General",
+      "waitMin": 16,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "General",
+      "waitMin": 0,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "TSA Pre",
+      "waitMin": 2,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "TSA Pre",
+      "waitMin": 2,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "General",
+      "waitMin": 10,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "TSA Pre",
+      "waitMin": 0,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "General",
+      "waitMin": 10,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "Priority",
+      "waitMin": 2,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "General",
+      "waitMin": 6,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "Priority",
+      "waitMin": 0,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "TSA Pre",
+      "waitMin": 6,
+      "isPrecheck": false
+    }
+  ],
+  "updatedAtMs": 1775148055693,
+  "source": "https://www.dfwairport.com/security/",
+  "ok": true,
   "clear": {
     "open": true,
     "terminals": [

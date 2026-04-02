@@ -1,9 +1,55 @@
 {
   "code": "IAH",
-  "checkpoints": [],
-  "updatedAtMs": 1775145126320,
-  "source": "TSA DHS API + clearme.com",
-  "ok": false,
+  "checkpoints": [
+    {
+      "terminal": "main",
+      "waitMin": 18,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "main",
+      "waitMin": 4,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "main",
+      "waitMin": 10,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "main",
+      "waitMin": 5,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "main",
+      "waitMin": 3,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "main",
+      "waitMin": 9,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "main",
+      "waitMin": 7,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "main",
+      "waitMin": 5,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "FIS",
+      "waitMin": 10,
+      "isPrecheck": false
+    }
+  ],
+  "updatedAtMs": 1775148268967,
+  "source": "https://www.fly2houston.com/iah/security",
+  "ok": true,
   "clear": {
     "open": false,
     "terminals": [

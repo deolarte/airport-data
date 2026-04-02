@@ -1,8 +1,8 @@
 {
   "code": "AUS",
   "checkpoints": [],
-  "updatedAtMs": 1775145124165,
-  "source": "TSA DHS API + clearme.com",
+  "updatedAtMs": 1775148362564,
+  "source": "https://www.austintexas.gov/airport/security-wait-times",
   "ok": false,
   "clear": {
     "open": true,
