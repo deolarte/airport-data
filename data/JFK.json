@@ -1,7 +1,48 @@
 {
   "code": "JFK",
-  "checkpoints": [],
-  "updatedAtMs": 1775092597453,
-  "source": "https://www.jfkairport.com/at-the-airport/security",
-  "ok": false
+  "checkpoints": [
+    {
+      "terminal": "1",
+      "waitMin": 30,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "1",
+      "waitMin": 5,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "4",
+      "waitMin": 1,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "4",
+      "waitMin": 8,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "5",
+      "waitMin": 5,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "7",
+      "waitMin": 7,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "8",
+      "waitMin": 9,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "8",
+      "waitMin": 4,
+      "isPrecheck": false
+    }
+  ],
+  "updatedAtMs": 1775093096662,
+  "source": "https://www.jfkairport.com",
+  "ok": true
 }
