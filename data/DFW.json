@@ -3,17 +3,7 @@
   "checkpoints": [
     {
       "terminal": "General",
-      "waitMin": 10,
-      "isPrecheck": false
-    },
-    {
-      "terminal": "Priority",
-      "waitMin": 4,
-      "isPrecheck": false
-    },
-    {
-      "terminal": "General",
-      "waitMin": 4,
+      "waitMin": 2,
       "isPrecheck": false
     },
     {
@@ -22,11 +12,21 @@
       "isPrecheck": false
     },
     {
-      "terminal": "TSA Pre",
+      "terminal": "General",
       "waitMin": 8,
       "isPrecheck": false
     },
     {
+      "terminal": "Priority",
+      "waitMin": 0,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "TSA Pre",
+      "waitMin": 6,
+      "isPrecheck": false
+    },
+    {
       "terminal": "General",
       "waitMin": 2,
       "isPrecheck": false
@@ -53,66 +53,16 @@
     },
     {
       "terminal": "General",
-      "waitMin": 28,
-      "isPrecheck": false
-    },
-    {
-      "terminal": "Priority",
-      "waitMin": 4,
-      "isPrecheck": false
-    },
-    {
-      "terminal": "TSA Pre",
       "waitMin": 22,
       "isPrecheck": false
     },
     {
-      "terminal": "General",
-      "waitMin": 0,
-      "isPrecheck": false
-    },
-    {
       "terminal": "Priority",
-      "waitMin": 0,
+      "waitMin": 12,
       "isPrecheck": false
     },
     {
       "terminal": "TSA Pre",
-      "waitMin": 2,
-      "isPrecheck": false
-    },
-    {
-      "terminal": "General",
-      "waitMin": 2,
-      "isPrecheck": false
-    },
-    {
-      "terminal": "Priority",
-      "waitMin": 2,
-      "isPrecheck": false
-    },
-    {
-      "terminal": "TSA Pre",
-      "waitMin": 0,
-      "isPrecheck": false
-    },
-    {
-      "terminal": "General",
-      "waitMin": 2,
-      "isPrecheck": false
-    },
-    {
-      "terminal": "TSA Pre",
-      "waitMin": 2,
-      "isPrecheck": false
-    },
-    {
-      "terminal": "General",
-      "waitMin": 2,
-      "isPrecheck": false
-    },
-    {
-      "terminal": "General",
       "waitMin": 16,
       "isPrecheck": false
     },
@@ -122,8 +72,8 @@
       "isPrecheck": false
     },
     {
-      "terminal": "TSA Pre",
-      "waitMin": 2,
+      "terminal": "Priority",
+      "waitMin": 0,
       "isPrecheck": false
     },
     {
@@ -133,7 +83,12 @@
     },
     {
       "terminal": "General",
-      "waitMin": 10,
+      "waitMin": 2,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "Priority",
+      "waitMin": 2,
       "isPrecheck": false
     },
     {
@@ -143,7 +98,52 @@
     },
     {
       "terminal": "General",
-      "waitMin": 10,
+      "waitMin": 2,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "TSA Pre",
+      "waitMin": 4,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "General",
+      "waitMin": 2,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "General",
+      "waitMin": 4,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "General",
+      "waitMin": 0,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "TSA Pre",
+      "waitMin": 2,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "TSA Pre",
+      "waitMin": 4,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "General",
+      "waitMin": 20,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "TSA Pre",
+      "waitMin": 0,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "General",
+      "waitMin": 2,
       "isPrecheck": false
     },
     {
@@ -163,11 +163,11 @@
     },
     {
       "terminal": "TSA Pre",
-      "waitMin": 6,
+      "waitMin": 4,
       "isPrecheck": false
     }
   ],
-  "updatedAtMs": 1775148055693,
+  "updatedAtMs": 1775151582085,
   "source": "https://www.dfwairport.com/security/",
   "ok": true,
   "clear": {
