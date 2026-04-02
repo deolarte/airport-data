@@ -3,7 +3,7 @@
   "checkpoints": [
     {
       "terminal": "T3 General",
-      "waitMin": 9,
+      "waitMin": 8,
       "isPrecheck": false
     },
     {
@@ -27,7 +27,7 @@
       "isPrecheck": false
     }
   ],
-  "updatedAtMs": 1775159042644,
+  "updatedAtMs": 1775160952534,
   "source": "Airport API (direct)",
   "ok": true,
   "clear": {
