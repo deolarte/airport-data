@@ -23,7 +23,7 @@
     },
     {
       "terminal": "main",
-      "waitMin": 4,
+      "waitMin": 3,
       "isPrecheck": false
     },
     {
@@ -43,11 +43,11 @@
     },
     {
       "terminal": "FIS",
-      "waitMin": 10,
+      "waitMin": 4,
       "isPrecheck": false
     }
   ],
-  "updatedAtMs": 1775174699391,
+  "updatedAtMs": 1775184543616,
   "source": "https://www.fly2houston.com/iah/security",
   "ok": true,
   "clear": {

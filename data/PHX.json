@@ -3,7 +3,7 @@
   "checkpoints": [
     {
       "terminal": "T3 General",
-      "waitMin": 9,
+      "waitMin": 8,
       "isPrecheck": false
     },
     {
@@ -13,21 +13,21 @@
     },
     {
       "terminal": "T4 Checkpoint B General",
-      "waitMin": 8,
+      "waitMin": 6,
       "isPrecheck": false
     },
     {
       "terminal": "T4 Checkpoint C General",
-      "waitMin": 9,
+      "waitMin": 7,
       "isPrecheck": false
     },
     {
       "terminal": "T4 Checkpoint D General",
-      "waitMin": 8,
+      "waitMin": 0,
       "isPrecheck": false
     }
   ],
-  "updatedAtMs": 1775174840933,
+  "updatedAtMs": 1775184688427,
   "source": "Airport API (direct)",
   "ok": true,
   "clear": {
