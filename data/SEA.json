@@ -3,11 +3,11 @@
   "checkpoints": [
     {
       "terminal": "Checkpoint 4",
-      "waitMin": 8,
+      "waitMin": 3,
       "isPrecheck": false
     }
   ],
-  "updatedAtMs": 1775197112834,
+  "updatedAtMs": 1775202337684,
   "source": "Airport API (direct)",
   "ok": true,
   "clear": {
