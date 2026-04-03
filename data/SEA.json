@@ -3,12 +3,12 @@
   "checkpoints": [
     {
       "terminal": "Checkpoint 1",
-      "waitMin": 3,
+      "waitMin": 5,
       "isPrecheck": false
     },
     {
       "terminal": "Checkpoint 1 PreCheck",
-      "waitMin": 3,
+      "waitMin": 5,
       "isPrecheck": true
     },
     {
@@ -18,17 +18,17 @@
     },
     {
       "terminal": "Checkpoint 3",
-      "waitMin": 3,
+      "waitMin": 8,
       "isPrecheck": false
     },
     {
       "terminal": "Checkpoint 3 PreCheck",
-      "waitMin": 3,
+      "waitMin": 8,
       "isPrecheck": true
     },
     {
       "terminal": "Checkpoint 4",
-      "waitMin": 4,
+      "waitMin": 8,
       "isPrecheck": false
     },
     {
@@ -43,16 +43,16 @@
     },
     {
       "terminal": "Checkpoint 6",
-      "waitMin": 12,
+      "waitMin": 15,
       "isPrecheck": false
     },
     {
       "terminal": "Checkpoint 6 PreCheck",
-      "waitMin": 12,
+      "waitMin": 15,
       "isPrecheck": true
     }
   ],
-  "updatedAtMs": 1775248595822,
+  "updatedAtMs": 1775250628081,
   "source": "Airport API (direct)",
   "ok": true,
   "clear": {
