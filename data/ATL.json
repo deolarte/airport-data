@@ -1,7 +1,7 @@
 {
   "code": "ATL",
   "checkpoints": [],
-  "updatedAtMs": 1775318659972,
+  "updatedAtMs": 1775321701276,
   "source": "https://www.atl.com/travel-information/security-wait-times/",
   "ok": false,
   "error": "Page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.atl.com/travel-information/security-wait-times/\", waiting until \"networkidle\"\n",
