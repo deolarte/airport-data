@@ -18,7 +18,7 @@
     },
     {
       "terminal": "Terminal 4",
-      "waitMin": 7,
+      "waitMin": 8,
       "isPrecheck": false
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "terminal": "Terminal 5",
-      "waitMin": 9,
+      "waitMin": 21,
       "isPrecheck": false
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "terminal": "Terminal 8",
-      "waitMin": 4,
+      "waitMin": 3,
       "isPrecheck": false
     },
     {
@@ -47,7 +47,7 @@
       "isPrecheck": false
     }
   ],
-  "updatedAtMs": 1775280532508,
+  "updatedAtMs": 1775284904268,
   "source": "https://www.jfkairport.com",
   "ok": true,
   "clear": {
