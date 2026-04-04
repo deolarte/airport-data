@@ -18,7 +18,7 @@
     },
     {
       "terminal": "A21 Priority",
-      "waitMin": 0,
+      "waitMin": 2,
       "isPrecheck": false
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "terminal": "B30 General",
-      "waitMin": 0,
+      "waitMin": 2,
       "isPrecheck": false
     },
     {
@@ -83,7 +83,7 @@
     },
     {
       "terminal": "D18 General",
-      "waitMin": 2,
+      "waitMin": 0,
       "isPrecheck": false
     },
     {
@@ -98,7 +98,7 @@
     },
     {
       "terminal": "E16 TSA Pre",
-      "waitMin": 5,
+      "waitMin": 2,
       "isPrecheck": true
     },
     {
@@ -118,7 +118,7 @@
     },
     {
       "terminal": "E8 General",
-      "waitMin": 2,
+      "waitMin": 5,
       "isPrecheck": false
     },
     {
@@ -132,7 +132,7 @@
       "isPrecheck": true
     }
   ],
-  "updatedAtMs": 1775332574807,
+  "updatedAtMs": 1775334412357,
   "source": "Airport API (direct)",
   "ok": true,
   "clear": {
