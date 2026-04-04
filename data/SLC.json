@@ -1,10 +1,9 @@
 {
   "code": "SLC",
   "checkpoints": [],
-  "updatedAtMs": 1775266725670,
+  "updatedAtMs": 1775275679360,
   "source": "https://www.slcairport.com/travel-info/security/",
   "ok": false,
-  "error": "Page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.slcairport.com/travel-info/security/\", waiting until \"networkidle\"\n",
   "clear": {
     "open": true,
     "terminals": [
