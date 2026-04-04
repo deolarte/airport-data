@@ -18,36 +18,36 @@
     },
     {
       "terminal": "Terminal 4",
-      "waitMin": 8,
+      "waitMin": 13,
       "isPrecheck": false
     },
     {
       "terminal": "Terminal 5",
-      "waitMin": 0,
+      "waitMin": 6,
       "isPrecheck": false
     },
     {
       "terminal": "Terminal 5",
-      "waitMin": 21,
+      "waitMin": 41,
       "isPrecheck": false
     },
     {
       "terminal": "Terminal 7",
-      "waitMin": 1,
+      "waitMin": 5,
       "isPrecheck": false
     },
     {
       "terminal": "Terminal 8",
-      "waitMin": 3,
+      "waitMin": 7,
       "isPrecheck": false
     },
     {
       "terminal": "Terminal 8",
-      "waitMin": 1,
+      "waitMin": 4,
       "isPrecheck": false
     }
   ],
-  "updatedAtMs": 1775284904268,
+  "updatedAtMs": 1775288563887,
   "source": "https://www.jfkairport.com",
   "ok": true,
   "clear": {
