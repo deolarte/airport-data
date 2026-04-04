@@ -1,9 +1,30 @@
 {
   "code": "DFW",
-  "checkpoints": [],
-  "updatedAtMs": 1775288478423,
+  "checkpoints": [
+    {
+      "terminal": "A21 General",
+      "waitMin": 7,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "A21 Priority",
+      "waitMin": 2,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "A21 TSA Pre",
+      "waitMin": 0,
+      "isPrecheck": true
+    },
+    {
+      "terminal": "E18 General",
+      "waitMin": 7,
+      "isPrecheck": false
+    }
+  ],
+  "updatedAtMs": 1775290298741,
   "source": "Airport API (direct)",
-  "ok": false,
+  "ok": true,
   "clear": {
     "open": true,
     "terminals": [
