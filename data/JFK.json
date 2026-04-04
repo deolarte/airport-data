@@ -3,7 +3,7 @@
   "checkpoints": [
     {
       "terminal": "Terminal 1",
-      "waitMin": 13,
+      "waitMin": 19,
       "isPrecheck": false
     },
     {
@@ -13,41 +13,41 @@
     },
     {
       "terminal": "Terminal 4",
-      "waitMin": 8,
+      "waitMin": 1,
       "isPrecheck": false
     },
     {
       "terminal": "Terminal 4",
-      "waitMin": 31,
+      "waitMin": 22,
       "isPrecheck": false
     },
     {
       "terminal": "Terminal 5",
-      "waitMin": 0,
+      "waitMin": 16,
       "isPrecheck": false
     },
     {
       "terminal": "Terminal 5",
-      "waitMin": 48,
+      "waitMin": 44,
       "isPrecheck": false
     },
     {
       "terminal": "Terminal 7",
-      "waitMin": 11,
+      "waitMin": 13,
       "isPrecheck": false
     },
     {
       "terminal": "Terminal 8",
-      "waitMin": 24,
+      "waitMin": 31,
       "isPrecheck": false
     },
     {
       "terminal": "Terminal 8",
-      "waitMin": 7,
+      "waitMin": 10,
       "isPrecheck": false
     }
   ],
-  "updatedAtMs": 1775323801768,
+  "updatedAtMs": 1775325651530,
   "source": "https://www.jfkairport.com",
   "ok": true,
   "clear": {
