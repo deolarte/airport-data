@@ -3,11 +3,11 @@
   "checkpoints": [
     {
       "terminal": "Estimated Wait Times",
-      "waitMin": 23,
+      "waitMin": 26,
       "isPrecheck": false
     }
   ],
-  "updatedAtMs": 1775297736102,
+  "updatedAtMs": 1775300527813,
   "source": "https://www.flystl.com/security",
   "ok": true,
   "clear": {
