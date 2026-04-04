@@ -2,16 +2,6 @@
   "code": "DFW",
   "checkpoints": [
     {
-      "terminal": "A12 General",
-      "waitMin": 2,
-      "isPrecheck": false
-    },
-    {
-      "terminal": "A12 Priority",
-      "waitMin": 0,
-      "isPrecheck": false
-    },
-    {
       "terminal": "A21 General",
       "waitMin": 2,
       "isPrecheck": false
@@ -25,11 +15,6 @@
       "terminal": "A21 TSA Pre",
       "waitMin": 0,
       "isPrecheck": true
-    },
-    {
-      "terminal": "A35 General",
-      "waitMin": 2,
-      "isPrecheck": false
     },
     {
       "terminal": "B30 General",
@@ -62,16 +47,6 @@
       "isPrecheck": true
     },
     {
-      "terminal": "C11 General",
-      "waitMin": 2,
-      "isPrecheck": false
-    },
-    {
-      "terminal": "C11 TSA Pre",
-      "waitMin": 0,
-      "isPrecheck": true
-    },
-    {
       "terminal": "C20 General",
       "waitMin": 2,
       "isPrecheck": false
@@ -83,56 +58,26 @@
     },
     {
       "terminal": "D18 General",
-      "waitMin": 9,
+      "waitMin": 0,
       "isPrecheck": false
     },
     {
       "terminal": "D22 General",
-      "waitMin": 7,
+      "waitMin": 11,
       "isPrecheck": false
     },
     {
       "terminal": "D30 TSA Pre",
-      "waitMin": 2,
-      "isPrecheck": true
-    },
-    {
-      "terminal": "E16 TSA Pre",
-      "waitMin": 2,
+      "waitMin": 5,
       "isPrecheck": true
     },
     {
       "terminal": "E18 General",
       "waitMin": 2,
       "isPrecheck": false
-    },
-    {
-      "terminal": "E33 General",
-      "waitMin": 2,
-      "isPrecheck": false
-    },
-    {
-      "terminal": "E33 Priority",
-      "waitMin": 0,
-      "isPrecheck": false
-    },
-    {
-      "terminal": "E8 General",
-      "waitMin": 5,
-      "isPrecheck": false
-    },
-    {
-      "terminal": "E8 Priority",
-      "waitMin": 0,
-      "isPrecheck": false
-    },
-    {
-      "terminal": "E8 TSA Pre",
-      "waitMin": 2,
-      "isPrecheck": true
     }
   ],
-  "updatedAtMs": 1775260362725,
+  "updatedAtMs": 1775266435854,
   "source": "Airport API (direct)",
   "ok": true,
   "clear": {
