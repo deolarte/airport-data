@@ -1,7 +1,7 @@
 {
   "code": "MCO",
   "checkpoints": [],
-  "updatedAtMs": 1775417356341,
+  "updatedAtMs": 1775419282250,
   "source": "https://orlandoairports.net/security-wait-times/",
   "ok": false,
   "error": "Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://orlandoairports.net/security-wait-times/\nCall log:\n  - navigating to \"https://orlandoairports.net/security-wait-times/\", waiting until \"networkidle\"\n",
