@@ -1,7 +1,7 @@
 {
   "code": "LAX",
   "checkpoints": [],
-  "updatedAtMs": 1775419274591,
+  "updatedAtMs": 1775421155180,
   "source": "https://www.flylax.com/security",
   "ok": false,
   "error": "Page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.flylax.com/security\", waiting until \"networkidle\"\n",
