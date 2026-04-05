@@ -1,10 +1,9 @@
 {
   "code": "HNL",
   "checkpoints": [],
-  "updatedAtMs": 1775347198740,
+  "updatedAtMs": 1775354193531,
   "source": "https://airports.hawaii.gov/hnl/security/",
   "ok": false,
-  "error": "Page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://airports.hawaii.gov/hnl/security/\", waiting until \"networkidle\"\n",
   "clear": {
     "open": false,
     "terminals": [
