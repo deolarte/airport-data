@@ -1,7 +1,7 @@
 {
   "code": "MCI",
   "checkpoints": [],
-  "updatedAtMs": 1775423009868,
+  "updatedAtMs": 1775424999347,
   "source": "https://www.flykci.com/security",
   "ok": false,
   "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.flykci.com/security\nCall log:\n  - navigating to \"https://www.flykci.com/security\", waiting until \"networkidle\"\n",
