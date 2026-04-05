@@ -3,12 +3,12 @@
   "checkpoints": [
     {
       "terminal": "A12 General",
-      "waitMin": 5,
+      "waitMin": 2,
       "isPrecheck": false
     },
     {
       "terminal": "A12 Priority",
-      "waitMin": 2,
+      "waitMin": 0,
       "isPrecheck": false
     },
     {
@@ -18,17 +18,17 @@
     },
     {
       "terminal": "A21 Priority",
-      "waitMin": 7,
+      "waitMin": 0,
       "isPrecheck": false
     },
     {
       "terminal": "A21 TSA Pre",
-      "waitMin": 5,
+      "waitMin": 2,
       "isPrecheck": true
     },
     {
       "terminal": "A35 General",
-      "waitMin": 5,
+      "waitMin": 11,
       "isPrecheck": false
     },
     {
@@ -48,7 +48,7 @@
     },
     {
       "terminal": "B9 General",
-      "waitMin": 9,
+      "waitMin": 11,
       "isPrecheck": false
     },
     {
@@ -58,7 +58,7 @@
     },
     {
       "terminal": "B9 TSA Pre",
-      "waitMin": 2,
+      "waitMin": 5,
       "isPrecheck": true
     },
     {
@@ -73,7 +73,7 @@
     },
     {
       "terminal": "C20 General",
-      "waitMin": 2,
+      "waitMin": 11,
       "isPrecheck": false
     },
     {
@@ -83,17 +83,17 @@
     },
     {
       "terminal": "D18 General",
-      "waitMin": 7,
+      "waitMin": 15,
       "isPrecheck": false
     },
     {
       "terminal": "D22 General",
-      "waitMin": 19,
+      "waitMin": 17,
       "isPrecheck": false
     },
     {
       "terminal": "D30 TSA Pre",
-      "waitMin": 7,
+      "waitMin": 5,
       "isPrecheck": true
     },
     {
@@ -103,12 +103,12 @@
     },
     {
       "terminal": "E18 General",
-      "waitMin": 9,
+      "waitMin": 11,
       "isPrecheck": false
     },
     {
       "terminal": "E33 General",
-      "waitMin": 5,
+      "waitMin": 2,
       "isPrecheck": false
     },
     {
@@ -132,7 +132,7 @@
       "isPrecheck": true
     }
   ],
-  "updatedAtMs": 1775426496540,
+  "updatedAtMs": 1775428398634,
   "source": "Airport API (direct)",
   "ok": true,
   "clear": {
