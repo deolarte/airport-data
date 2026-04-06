@@ -2,16 +2,6 @@
   "code": "DFW",
   "checkpoints": [
     {
-      "terminal": "A12 General",
-      "waitMin": 2,
-      "isPrecheck": false
-    },
-    {
-      "terminal": "A12 Priority",
-      "waitMin": 0,
-      "isPrecheck": false
-    },
-    {
       "terminal": "A21 General",
       "waitMin": 2,
       "isPrecheck": false
@@ -27,13 +17,8 @@
       "isPrecheck": true
     },
     {
-      "terminal": "A35 General",
-      "waitMin": 2,
-      "isPrecheck": false
-    },
-    {
       "terminal": "B30 General",
-      "waitMin": 2,
+      "waitMin": 0,
       "isPrecheck": false
     },
     {
@@ -62,18 +47,8 @@
       "isPrecheck": true
     },
     {
-      "terminal": "C11 General",
-      "waitMin": 2,
-      "isPrecheck": false
-    },
-    {
-      "terminal": "C11 TSA Pre",
-      "waitMin": 0,
-      "isPrecheck": true
-    },
-    {
       "terminal": "C20 General",
-      "waitMin": 5,
+      "waitMin": 2,
       "isPrecheck": false
     },
     {
@@ -83,56 +58,26 @@
     },
     {
       "terminal": "D18 General",
-      "waitMin": 17,
+      "waitMin": 9,
       "isPrecheck": false
     },
     {
       "terminal": "D22 General",
-      "waitMin": 11,
+      "waitMin": 2,
       "isPrecheck": false
     },
     {
-      "terminal": "D30 TSA Pre",
-      "waitMin": 2,
-      "isPrecheck": true
-    },
-    {
-      "terminal": "E16 TSA Pre",
-      "waitMin": 2,
-      "isPrecheck": true
+      "terminal": "D30 General",
+      "waitMin": 0,
+      "isPrecheck": false
     },
     {
       "terminal": "E18 General",
-      "waitMin": 2,
+      "waitMin": 7,
       "isPrecheck": false
-    },
-    {
-      "terminal": "E33 General",
-      "waitMin": 2,
-      "isPrecheck": false
-    },
-    {
-      "terminal": "E33 Priority",
-      "waitMin": 0,
-      "isPrecheck": false
-    },
-    {
-      "terminal": "E8 General",
-      "waitMin": 2,
-      "isPrecheck": false
-    },
-    {
-      "terminal": "E8 Priority",
-      "waitMin": 0,
-      "isPrecheck": false
-    },
-    {
-      "terminal": "E8 TSA Pre",
-      "waitMin": 2,
-      "isPrecheck": true
     }
   ],
-  "updatedAtMs": 1775433187128,
+  "updatedAtMs": 1775440669664,
   "source": "Airport API (direct)",
   "ok": true,
   "clear": {
