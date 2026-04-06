@@ -1,7 +1,7 @@
 {
   "code": "STL",
   "checkpoints": [],
-  "updatedAtMs": 1775509497038,
+  "updatedAtMs": 1775511833614,
   "source": "https://www.flystl.com/security",
   "ok": false,
   "error": "Page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.flystl.com/security\", waiting until \"networkidle\"\n",
