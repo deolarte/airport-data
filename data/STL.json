@@ -1,10 +1,15 @@
 {
   "code": "STL",
-  "checkpoints": [],
-  "updatedAtMs": 1775511833614,
+  "checkpoints": [
+    {
+      "terminal": "Estimated Wait Times",
+      "waitMin": 5,
+      "isPrecheck": false
+    }
+  ],
+  "updatedAtMs": 1775513585070,
   "source": "https://www.flystl.com/security",
-  "ok": false,
-  "error": "Page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.flystl.com/security\", waiting until \"networkidle\"\n",
+  "ok": true,
   "clear": {
     "open": true,
     "terminals": [
