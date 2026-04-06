@@ -1,7 +1,7 @@
 {
   "code": "MSP",
   "checkpoints": [],
-  "updatedAtMs": 1775513493674,
+  "updatedAtMs": 1775516607993,
   "source": "https://www.mspairport.com/at-airport/security",
   "ok": false,
   "error": "Page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.mspairport.com/at-airport/security\", waiting until \"networkidle\"\n",
