@@ -1,7 +1,7 @@
 {
   "code": "DEN",
   "checkpoints": [],
-  "updatedAtMs": 1775440669289,
+  "updatedAtMs": 1775450674170,
   "source": "https://www.flydenver.com/security",
   "ok": false,
   "error": "Page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.flydenver.com/security\", waiting until \"networkidle\"\n",
