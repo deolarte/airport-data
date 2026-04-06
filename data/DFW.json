@@ -48,12 +48,12 @@
     },
     {
       "terminal": "B9 General",
-      "waitMin": 2,
+      "waitMin": 13,
       "isPrecheck": false
     },
     {
       "terminal": "B9 Priority",
-      "waitMin": 7,
+      "waitMin": 9,
       "isPrecheck": false
     },
     {
@@ -63,7 +63,7 @@
     },
     {
       "terminal": "C11 General",
-      "waitMin": 13,
+      "waitMin": 2,
       "isPrecheck": false
     },
     {
@@ -73,7 +73,7 @@
     },
     {
       "terminal": "C20 General",
-      "waitMin": 9,
+      "waitMin": 2,
       "isPrecheck": false
     },
     {
@@ -83,17 +83,17 @@
     },
     {
       "terminal": "D18 General",
-      "waitMin": 11,
+      "waitMin": 35,
       "isPrecheck": false
     },
     {
       "terminal": "D22 General",
-      "waitMin": 15,
+      "waitMin": 25,
       "isPrecheck": false
     },
     {
       "terminal": "D30 TSA Pre",
-      "waitMin": 13,
+      "waitMin": 2,
       "isPrecheck": true
     },
     {
@@ -108,7 +108,7 @@
     },
     {
       "terminal": "E33 General",
-      "waitMin": 5,
+      "waitMin": 2,
       "isPrecheck": false
     },
     {
@@ -118,7 +118,7 @@
     },
     {
       "terminal": "E8 General",
-      "waitMin": 7,
+      "waitMin": 2,
       "isPrecheck": false
     },
     {
@@ -132,7 +132,7 @@
       "isPrecheck": true
     }
   ],
-  "updatedAtMs": 1775516400852,
+  "updatedAtMs": 1775518461207,
   "source": "Airport API (direct)",
   "ok": true,
   "clear": {
