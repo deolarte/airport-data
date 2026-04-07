@@ -3,11 +3,6 @@
   "checkpoints": [
     {
       "terminal": "main",
-      "waitMin": 5,
-      "isPrecheck": false
-    },
-    {
-      "terminal": "main",
       "waitMin": 3,
       "isPrecheck": false
     },
@@ -18,17 +13,22 @@
     },
     {
       "terminal": "main",
-      "waitMin": 5,
+      "waitMin": 3,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "main",
+      "waitMin": 4,
+      "isPrecheck": false
+    },
+    {
+      "terminal": "main",
+      "waitMin": 3,
       "isPrecheck": false
     },
     {
       "terminal": "main",
       "waitMin": 5,
-      "isPrecheck": false
-    },
-    {
-      "terminal": "main",
-      "waitMin": 11,
       "isPrecheck": false
     },
     {
@@ -43,11 +43,11 @@
     },
     {
       "terminal": "FIS",
-      "waitMin": 2,
+      "waitMin": 4,
       "isPrecheck": false
     }
   ],
-  "updatedAtMs": 1775518540983,
+  "updatedAtMs": 1775520408803,
   "source": "https://www.fly2houston.com/iah/security",
   "ok": true,
   "clear": {
