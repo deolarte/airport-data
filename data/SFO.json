@@ -1,7 +1,7 @@
 {
   "code": "SFO",
   "checkpoints": [],
-  "updatedAtMs": 1775533100699,
+  "updatedAtMs": 1775540156919,
   "source": "https://www.flysfo.com/security",
   "ok": false,
   "error": "Page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.flysfo.com/security\", waiting until \"networkidle\"\n",
