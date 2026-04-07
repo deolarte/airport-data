@@ -2,17 +2,12 @@
   "code": "SEA",
   "checkpoints": [
     {
-      "terminal": "Checkpoint 3",
-      "waitMin": 33,
-      "isPrecheck": false
-    },
-    {
       "terminal": "Checkpoint 4",
-      "waitMin": 19,
+      "waitMin": 3,
       "isPrecheck": false
     }
   ],
-  "updatedAtMs": 1775540111877,
+  "updatedAtMs": 1775545128532,
   "source": "Airport API (direct)",
   "ok": true,
   "clear": {
