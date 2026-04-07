@@ -1,9 +1,10 @@
 {
   "code": "EWR",
   "checkpoints": [],
-  "updatedAtMs": 1775566007861,
+  "updatedAtMs": 1775571639057,
   "source": "https://www.newarkairport.com/at-the-airport/security",
   "ok": false,
+  "error": "Page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.newarkairport.com/at-the-airport/security\", waiting until \"networkidle\"\n",
   "clear": {
     "open": true,
     "terminals": [

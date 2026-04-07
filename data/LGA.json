@@ -1,9 +1,10 @@
 {
   "code": "LGA",
   "checkpoints": [],
-  "updatedAtMs": 1775566136822,
+  "updatedAtMs": 1775571807750,
   "source": "https://www.laguardiaairport.com/at-the-airport/security",
   "ok": false,
+  "error": "Page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://www.laguardiaairport.com/at-the-airport/security\", waiting until \"networkidle\"\n",
   "clear": {
     "open": true,
     "terminals": [
